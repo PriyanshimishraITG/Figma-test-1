@@ -689,7 +689,7 @@ input:focus, textarea:focus {
     }
     .arrow-div {
         top: 60%;
-        left: 90%;
+        left: 90.5%;
     }
     .sale-time-div {
         width: 10%;
@@ -712,6 +712,10 @@ input:focus, textarea:focus {
     }
     .menu-li {
         gap: 1%;
+    }
+    .arrow-div {
+        top: 60%;
+        left: 90%;
     }
     .sale-div {
         padding: 20px;
@@ -771,6 +775,10 @@ input:focus, textarea:focus {
     .slider-div {
         padding: 20px;
     }
+    .arrow-div {
+        top: 60%;
+        left: 89.5%;
+    }
 }
 
 @media (max-width: 900px) {
@@ -793,6 +801,10 @@ input:focus, textarea:focus {
         width: 70%;
         margin: 20px auto 0 auto;
     }
+    .arrow-div {
+        top: 60%;
+        left: 89%;
+    }
 }
 
 @media (max-width: 875px) {
@@ -801,11 +813,19 @@ input:focus, textarea:focus {
         gap: 3%;
         font-size: 8px;
     }
+    .arrow-div {
+        top: 60%;
+        left: 88.5%;
+    }
 }
 
 @media (max-width: 844px) {
     .top-div {
         gap: 2%;
+    }
+    .arrow-div {
+        top: 60%;
+        left: 88%;
     }
 }
 
