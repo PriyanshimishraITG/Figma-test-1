@@ -689,6 +689,7 @@ input:focus, textarea:focus {
     }
     .arrow-div {
         top: 60%;
+        left: 90%;
     }
     .sale-time-div {
         width: 10%;
